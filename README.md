@@ -15,13 +15,13 @@ Eure Aufgabe ist es, ein einfaches Tic Tac Toe Spiel in einer Programmiersprache
 
 2. Das Spiel visualisieren
    - Die Ausgabe des Spielfeldes soll über die Konsole erfolgen.
-   - Dabei soll sich die Konsole nach jedem Zug aktualisieren, so dass immer das aktuelle Spielfeld angezeigt wird.
+   - Dabei soll sich die Konsole nach jedem Zug aktualisieren, sodass immer das aktuelle Spielfeld angezeigt wird.
 
 3. Bonusaufgaben
    - Wenn du vor Ablauf der Zeit fertig bist, kannst du dein Programm gerne erweitern.
-   - Ideen sind z.B: Eine Benutzeroberfläche, ein Punktezähler oder Unit-Tests.
+   - Ideen sind z. B.: Eine Benutzeroberfläche, ein Punktezähler oder Unit-Tests.
 
 ### Vorstellung
 Wenn die Zeit abgelaufen ist, möchten wir, dass ihr eure Ergebnisse den anderen Teilnehmern vorstellt.
 
-**Viel Spaß beim programmieren**
+**Viel Spaß beim Programmieren**
