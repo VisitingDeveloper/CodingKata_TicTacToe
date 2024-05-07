@@ -6,6 +6,7 @@ Eure Aufgabe ist es, ein einfaches Tic Tac Toe Spiel in einer Programmiersprache
 1. Die Spielregel umsetzen
     - 2 Spieler
     - Es gibt 2 menschliche Spieler. Ein Bot muss noch nicht gebaut werden.
+    - Das Spielfeld sollte 3x3 Felder groß sein.
     - Die 2 Spieler machen abwechselnd einen Zug.
     - Die 2 Spieler brauchen unterschiedliche Symbole, um sich zu unterscheiden.
     - Ein Spieler gewinnt, wenn er eine Reihe, eine Spalte oder eine Diagonale mit 3 eigenen Symbolen gefüllt hat.
